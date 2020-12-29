@@ -21,6 +21,7 @@ overflow: hidden;
     right:0;
     overflow: hidden;
     position: fixed;
+	z-index:1;
 }
 .logo-bar{
     background-image: linear-gradient(to right,#4e0364,#2f023d,#15011b,#050007);
